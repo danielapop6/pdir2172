@@ -18,6 +18,13 @@ public class Carte {
 		cuvinteCheie = new ArrayList<String>();
 	}
 
+	public Carte(String titlu, List<String> referenti, String anAparitie, List<String> cuvinteCheie) {
+		this.titlu = titlu;
+		this.referenti = referenti;
+		this.anAparitie = anAparitie;
+		this.cuvinteCheie = cuvinteCheie;
+	}
+
 	public String getTitlu() {
 		return titlu;
 	}

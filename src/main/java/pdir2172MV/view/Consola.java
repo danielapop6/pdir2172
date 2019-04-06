@@ -95,6 +95,7 @@ public class Consola {
 			}
 			
 			bc.adaugaCarte(c);
+			System.out.println("Book was successfully added in the list.");
 			
 		}catch(Exception e){
 			e.printStackTrace();
