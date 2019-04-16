@@ -14,7 +14,7 @@ public class CartiRepoMock implements CartiRepoInterface {
 	private List<Carte> carti;
 	
 	public CartiRepoMock(){
-		carti = new ArrayList<Carte>();
+		carti = new ArrayList<>();
 		
 		carti.add(Carte.getCarteFromString("Povesti;Mihai Eminescu,Ion Caragiale,Ion Creanga;1973;Corint;povesti,povestiri"));
 		carti.add(Carte.getCarteFromString("Poezii;Sadoveanu;1973;Corint;poezii"));
@@ -24,7 +24,11 @@ public class CartiRepoMock implements CartiRepoInterface {
 		carti.add(Carte.getCarteFromString("Test;Calinescu,Tetica;1992;Pipa;am,casa"));
 
 	}
-	
+
+	public CartiRepoMock(List<Carte> carti) {
+		this.carti = carti;
+	}
+
 	@Override
 	public void adaugaCarte(Carte c) {
 		carti.add(c);
