@@ -33,7 +33,7 @@ public class BibliotecaCtrl {
 		return cr.cautaCarte(autor);
 	}
 	
-	public List<Carte> getCarti() throws Exception{
+	public List<Carte> getCarti() {
 		return cr.getCarti();
 	}
 	

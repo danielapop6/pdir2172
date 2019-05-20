@@ -11,7 +11,7 @@ import java.util.List;
 
 import static org.junit.Assert.*;
 
-public class CartiRepoMockTest {
+public class CartiRepoMockTestF02 {
     CartiRepoMock cartiRepoMock;
 
 

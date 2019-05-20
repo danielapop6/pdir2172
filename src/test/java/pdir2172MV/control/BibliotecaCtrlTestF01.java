@@ -10,7 +10,7 @@ import pdir2172MV.repository.repoMock.CartiRepoMock;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BibliotecaCtrlTest {
+public class BibliotecaCtrlTestF01 {
 
     BibliotecaCtrl bibliotecaCtrl;
 
