@@ -1,9 +1,9 @@
-package pdir2172MV.control;
+package biblioteca.control;
 
 
-import pdir2172MV.model.Carte;
-import pdir2172MV.repository.repoInterfaces.CartiRepoInterface;
-import pdir2172MV.validator.Validator;
+import biblioteca.model.Carte;
+import biblioteca.repository.repoInterfaces.CartiRepoInterface;
+import biblioteca.validator.Validator;
 
 import java.util.List;
 

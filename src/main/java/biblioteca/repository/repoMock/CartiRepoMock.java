@@ -1,8 +1,8 @@
-package pdir2172MV.repository.repoMock;
+package biblioteca.repository.repoMock;
 
 
-import pdir2172MV.model.Carte;
-import pdir2172MV.repository.repoInterfaces.CartiRepoInterface;
+import biblioteca.model.Carte;
+import biblioteca.repository.repoInterfaces.CartiRepoInterface;
 
 import java.util.ArrayList;
 import java.util.Collections;

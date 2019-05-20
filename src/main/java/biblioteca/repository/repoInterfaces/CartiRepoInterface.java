@@ -1,7 +1,7 @@
-package pdir2172MV.repository.repoInterfaces;
+package biblioteca.repository.repoInterfaces;
 
 
-import pdir2172MV.model.Carte;
+import biblioteca.model.Carte;
 
 import java.util.List;
 

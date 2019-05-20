@@ -1,12 +1,12 @@
-package pdir2172MV;
+package biblioteca;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import pdir2172MV.control.BibliotecaCtrl;
-import pdir2172MV.model.Carte;
-import pdir2172MV.repository.repoInterfaces.CartiRepoInterface;
-import pdir2172MV.repository.repoMock.CartiRepoMock;
+import biblioteca.control.BibliotecaCtrl;
+import biblioteca.model.Carte;
+import biblioteca.repository.repoInterfaces.CartiRepoInterface;
+import biblioteca.repository.repoMock.CartiRepoMock;
 
 import java.util.List;
 

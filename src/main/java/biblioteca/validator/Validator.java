@@ -1,6 +1,6 @@
-package pdir2172MV.validator;
+package biblioteca.validator;
 
-import pdir2172MV.model.Carte;
+import biblioteca.model.Carte;
 
 public class Validator {
 	

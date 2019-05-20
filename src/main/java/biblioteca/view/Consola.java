@@ -1,8 +1,8 @@
-package pdir2172MV.view;
+package biblioteca.view;
 
 
-import pdir2172MV.control.BibliotecaCtrl;
-import pdir2172MV.model.Carte;
+import biblioteca.control.BibliotecaCtrl;
+import biblioteca.model.Carte;
 
 import java.io.BufferedReader;
 import java.io.IOException;

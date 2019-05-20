@@ -1,9 +1,9 @@
-package pdir2172MV.begin;
+package biblioteca.begin;
 
-import pdir2172MV.control.BibliotecaCtrl;
-import pdir2172MV.repository.repoInterfaces.CartiRepoInterface;
-import pdir2172MV.repository.repoMock.CartiRepoMock;
-import pdir2172MV.view.Consola;
+import biblioteca.control.BibliotecaCtrl;
+import biblioteca.repository.repoInterfaces.CartiRepoInterface;
+import biblioteca.repository.repoMock.CartiRepoMock;
+import biblioteca.view.Consola;
 
 import java.io.IOException;
 

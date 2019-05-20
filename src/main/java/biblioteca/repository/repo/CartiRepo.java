@@ -1,8 +1,8 @@
-package pdir2172MV.repository.repo;
+package biblioteca.repository.repo;
 
 
-import pdir2172MV.model.Carte;
-import pdir2172MV.repository.repoInterfaces.CartiRepoInterface;
+import biblioteca.model.Carte;
+import biblioteca.repository.repoInterfaces.CartiRepoInterface;
 
 import java.io.*;
 import java.net.URL;
